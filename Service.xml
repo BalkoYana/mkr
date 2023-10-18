@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Service>
+   <Service Surname="Ivanova" Address="adress1" Date="01.01.2023 0:00:00" Type="type1" Price="2000" />
+   <Service Surname="Smith" Address="adress1" Date="01.01.2023 0:00:00" Type="type3" Price="20006" />
+   <Service Surname="Semenko" Address="adress1" Date="01.01.2023 0:00:00" Type="type1" Price="200" />
+   <Service Surname="Ivanova1" Address="adress5" Date="01.09.2023 0:00:00" Type="type5" Price="200990" />
+   <Service Surname="Young" Address="adress89" Date="09.08.2023 0:00:00" Type="type1" Price="5000000" />
+</Service>
